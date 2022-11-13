@@ -7,6 +7,7 @@ apt install build-essential \
     cmake \
     ocl-icd-opencl-dev \
     ocl-icd-dev \
+    mesa-opencl-icd \
     python3-dev \
     python3-yaml \
     python3-typing-extensions \
